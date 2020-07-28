@@ -1,0 +1,152 @@
+[
+  {
+    "osbbNewsId": 1,
+    "title": "Firefox 79: The safe return of shared memory",
+    "date": [
+      2020,
+      1,
+      15
+    ],
+    "article": "Modern JavaScript depends on promises, async/await, events, and timeouts to orchestrate complex scheduling between your code, libraries, and the browser. And yet, it can be challenging to debug async code to understand control and data flow. Operations are broken up over time. Async stack traces solve this by combining the live synchronous part of the stack with the part that is captured and asynchronous. Now you can enjoy detailed async execution chains in the Firefox JavaScript Debugger’s call stack, Console errors, and Network initiators.",
+    "important": true,
+    "image": ["https://picsum.photos/seed/picsum/400/250", "https://picsum.photos/seed/picsum/400/250", "https://picsum.photos/seed/picsum/400/250", "https://picsum.photos/seed/picsum/400/250"],
+    "pinned": true,
+    "commented": false,
+    "osbbDtoOLD": null
+  },
+  {
+    "osbbNewsId": 2,
+    "title": "MDN Web Docs: 15 years young",
+    "date": [
+      2019,
+      8,
+      22
+    ],
+    "article": "On July 23, MDN Web Docs turned 15 years old. From humble beginnings, rising out of the ashes of Netscape DevEdge, MDN has grown to be one of the best-respected web platform documentation sites out there. Our popularity is growing, and new content and features arrive just about every day. When we turned 10, we had a similar celebration, talking about MDN Web Docs’ origins, history, and what we’d achieved up until then. Refer to MDN at ten if you want to go further back! In the last five years, we’ve broken much more ground. These days, we can boast roughly 15 million views per month, a comprehensive browser compatibility database, an active beginner’s learning community, editable interactive examples, and many other exciting features that didn’t exist in 2015. An anniversary to be proud of! ",
+    "important": false,
+    "image": ["https://picsum.photos/seed/picsum/400/250", "https://picsum.photos/seed/picsum/400/250", "https://picsum.photos/seed/picsum/400/250"],
+    "pinned": false,
+    "commented": true,
+    "osbbDtoOLD": null
+  },
+  {
+    "osbbNewsId": 3,
+    "title": "We’ve got an MDN Web Docs Swag Store",
+    "date": [
+      2019,
+      9,
+      25
+    ],
+    "article": "Launched earlier this year, the MDN Web Docs Store is the place to go to show your support for web standards documentation and get your MDN Web Docs merchandise. Whether it’s clothing, bags, or other accessories featuring your favorite dino head or MDN Web Docs logos, we’ve got something for you.  And, for a limited time only, you can pick up special 15th anniversary designs",
+    "important": true,
+    "image": [],
+    "pinned": false,
+    "commented": true,
+    "osbbDtoOLD": null
+  },
+  {
+    "osbbNewsId": 4,
+    "title": "MDN’s audience has grown like never before",
+    "date": [
+      2020,
+      1,
+      15
+    ],
+    "article": "In 2015, MDN served 4.5 million users on a monthly basis. A year later, we launched a product strategy designed to better serve Web Developers and increase MDN’s reach. We improved the site’s performance significantly. Page load time has gone down from 5s to 3.5s for the slowest 90th percentile on MDN, in the last two years alone. We fixed many issues that made it harder to surface MDN results in search engines, from removing spam to removing hundreds of thousands of pages from indexing. We listened to users to address an under-served audience on MDN: action-oriented developers, those who like actionable information right away. You can read below about some of the specific changes we made to better serve this audience. With over 3,000 new articles in the last 3 years, 260,000 article edits, and all the other goodness you can read about here, MDN has grown in double-digit percentages, year over year, every year — since 2015. Today MDN is serving more than 15 million web developers on a monthly basis. And, it’s serving them better than ever before.",
+    "important": true,
+    "image": ["https://picsum.photos/seed/picsum/400/250"],
+    "pinned": true,
+    "commented": false,
+    "osbbDtoOLD": null
+  },
+  {
+    "osbbNewsId": 5,
+    "title": "Satisfaction guaranteed",
+    "date": [
+      2020,
+      1,
+      15
+    ],
+    "article": "When we first started tracking task completion and satisfaction on MDN Web Docs 4 years ago, we were thrilled to see that more than 78% of MDN users were either satisfied or very satisfied with MDN, and 87% of MDN users reported that they were able to complete the task that brought them to the site. Since then it has been our goal to address a larger share of the developer audience while still maintaining these levels of satisfaction and task completion. Today, even though we have tripled our audience size, the share of people satisfied or very satisfied with MDN has gone up to 80%. Task completion has increased to a phenomenal 92%.",
+    "important": true,
+    "image": ["https://picsum.photos/seed/picsum/400/250", "https://picsum.photos/seed/picsum/400/250", "https://picsum.photos/seed/picsum/400/250", "https://picsum.photos/seed/picsum/400/250"],
+    "pinned": true,
+    "commented": false,
+    "osbbDtoOLD": null
+  },
+  {
+    "osbbNewsId": 6,
+    "title": "The learning area: MDN becomes beginner-friendly",
+    "date": [
+      2020,
+      1,
+      15
+    ],
+    "article": "Around the middle of 2015, the writers’ team began to act on user feedback that MDN wasn’t very beginner-friendly. We heard from novice web developers that MDN had been recommended as a good source of documentation. However, when they went to check out the site, they found it too advanced for their needs. In response to this feedback, we started the Learn Web Development section, informally known as the learning area. This area initially covered a variety of beginner’s topics ranging from what tools you need and how to get content on the web, to the very basics of web languages like HTML, CSS, and JavaScript. Getting started with the web was the first fully-fledged learning module to be published. It paved the way nicely for what was to come.",
+    "important": true,
+    "image": ["https://picsum.photos/seed/picsum/400/250", "https://picsum.photos/seed/picsum/400/250", "https://picsum.photos/seed/picsum/400/250", "https://picsum.photos/seed/picsum/400/250"],
+    "pinned": true,
+    "commented": false,
+    "osbbDtoOLD": null
+  },
+  {
+    "osbbNewsId": 7,
+    "title": "The Front-end developer learning pathway",
+    "date": [
+      2020,
+      1,
+      15
+    ],
+    "article": "By 2019, the learning area was doing well, but we felt that something was still missing. There is a huge demand for training material on client-side JavaScript frameworks, and structured learning pathways. Serious students tend to learn with a goal in a mind such as becoming a front-end developer. Here’s what happened next: To figure out exactly what to cover, we did some research. This culminated in the publication of the Introduction to client-side frameworks and Understanding client-side web development tools modules, which have already been very well-received. We now provide introductory material on React, Ember, and Vue, with more framework documentation to come in the future. And in general, we provide beginners with an overview of available tools, how to apply them, and how they relate to what they already know. We organized the content we’ve published so far into the Front-end developer learning pathway — an opinionated pathway containing all the knowledge you’ll need to become a front-end web developer, along with time estimates, suggested order of learning, etc. Some folks have expressed concern over MDN’s framework-oriented content. MDN is supposed to be the neutral docs site, and focus purely on the standards! We understand this concern. And yet, the learning area has been created from a very pragmatic standpoint. Today’s web development jobs demand knowledge of frameworks and other modern tooling, and to pretend that these don’t exist would be bad for the resource (and its users). Instead, we aim to strike a balance, providing framework coverage as a neutral observer, offering opinions on when to use frameworks and when not to, and introducing them atop a solid grounding of standards and best practices. We show you how to use frameworks while adhering to essential best practices like accessibility.",
+    "important": true,
+    "image": ["https://picsum.photos/seed/picsum/400/250", "https://picsum.photos/seed/picsum/400/250"],
+    "pinned": true,
+    "commented": false,
+    "osbbDtoOLD": null
+  },
+  {
+    "osbbNewsId": 8,
+    "title": "Bringing interactive examples to reference pages",
+    "date": [
+      2020,
+      1,
+      15
+    ],
+    "article": "The 2016 MDN product strategy highlighted an opportunity to add interactive examples to our reference docs. From user feedback, we knew that users value easy availability of simple code examples to copy, paste, and experiment with. It is a feature of documentation resources they care deeply about, and we certainly weren’t going to disappoint. So between 2017 and 2019, a small team of writers and developers designed and refined editors for interactive examples. They wrote hundreds of examples for our JavaScript, CSS, and HTML reference pages, which you can now find at the top of most of the reference pages in those areas. See Bringing interactive examples to MDN for more details.",
+    "important": true,
+    "image": [],
+    "pinned": true,
+    "commented": false,
+    "osbbDtoOLD": null
+  },
+  {
+    "osbbNewsId": 9,
+    "title": "MDN revolutionizes browser compat data",
+    "date": [
+      2020,
+      1,
+      15
+    ],
+    "article": "In 2017, the team started a project to completely redo MDN Web Docs’ compatibility data tables. The wiki had hand-maintained compat sections on about 6,000 pages, and these differed greatly in terms of quality, style, and completeness. Given that the biggest web developer pain point is dealing with browser compatibility and interoperability, our compat sections needed to become a lot more reliable.  Throughout 2017 and 2018, the MDN community cleaned up the data. Over the course of many sprints, such as Hack on MDN: Building useful tools with browser compatibility data, compatibility information moved from the wiki tables into a structured JSON format in a GitHub repository. About half-way through the project we saw the first fruits of this work. Read MDN browser compatibility data: Taking the guesswork out of web compatibility for more details of what we’d achieved by early 2018. It took until the end of 2018 to finish the migration. Today more than 8,000 English pages show compat data from our BCD repo – a place where all major browser vendors come together to maintain compatibility information.",
+    "important": true,
+    "image": ["https://picsum.photos/seed/picsum/400/250"],
+    "pinned": true,
+    "commented": false,
+    "osbbDtoOLD": null
+  },
+  {
+    "osbbNewsId": 10,
+    "title": "WebExtensions docs",
+    "date": [
+      2020,
+      1,
+      15
+    ],
+    "article": "In 2015 Mozilla announced plans to introduce a new browser extension system that would eventually replace the existing ones. This system is based on, and largely compatible with, Chrome’s extension APIs. Over the next couple of years, as the Add-ons team worked on the WebExtensions APIs, we documented their work, writing hundreds of pages of API reference documentation, guides, tutorials, and how-to pages. (See the Browser Extensions docs landing page to start exploring.) We also wrote dozens of example extensions, illustrating how to use the APIs. Then we prototyped a new way to represent browser compatibility data as JSON, which enabled us to publish a single page showing the complete compat status of the APIs. In fact, this work helped inspire and form the basis of what became the browser compat data project (see above).",
+    "important": true,
+    "image": ["https://picsum.photos/seed/picsum/400/250", "https://picsum.photos/seed/picsum/400/250", "https://picsum.photos/seed/picsum/400/250", "https://picsum.photos/seed/picsum/400/250"],
+    "pinned": true,
+    "commented": false,
+    "osbbDtoOLD": null
+  }
+]
