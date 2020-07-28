@@ -118,20 +118,5 @@
     "pinned": true,
     "commented": false,
     "osbbDtoOLD": null
-  },
-  {
-    "osbbNewsId": 9,
-    "title": "MDN revolutionizes browser compat data",
-    "date": [
-      2020,
-      1,
-      15
-    ],
-    "article": "In 2017, the team started a project to completely redo MDN Web Docs’ compatibility data tables. The wiki had hand-maintained compat sections on about 6,000 pages, and these differed greatly in terms of quality, style, and completeness. Given that the biggest web developer pain point is dealing with browser compatibility and interoperability, our compat sections needed to become a lot more reliable.  Throughout 2017 and 2018, the MDN community cleaned up the data. Over the course of many sprints, such as Hack on MDN: Building useful tools with browser compatibility data, compatibility information moved from the wiki tables into a structured JSON format in a GitHub repository. About half-way through the project we saw the first fruits of this work. Read MDN browser compatibility data: Taking the guesswork out of web compatibility for more details of what we’d achieved by early 2018. It took until the end of 2018 to finish the migration. Today more than 8,000 English pages show compat data from our BCD repo – a place where all major browser vendors come together to maintain compatibility information.",
-    "important": true,
-    "image": ["https://picsum.photos/seed/picsum/400/250"],
-    "pinned": true,
-    "commented": false,
-    "osbbDtoOLD": null
   }
 ]
