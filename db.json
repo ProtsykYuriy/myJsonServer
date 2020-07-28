@@ -133,20 +133,5 @@
     "pinned": true,
     "commented": false,
     "osbbDtoOLD": null
-  },
-  {
-    "osbbNewsId": 10,
-    "title": "WebExtensions docs",
-    "date": [
-      2020,
-      1,
-      15
-    ],
-    "article": "In 2015 Mozilla announced plans to introduce a new browser extension system that would eventually replace the existing ones. This system is based on, and largely compatible with, Chrome’s extension APIs. Over the next couple of years, as the Add-ons team worked on the WebExtensions APIs, we documented their work, writing hundreds of pages of API reference documentation, guides, tutorials, and how-to pages. (See the Browser Extensions docs landing page to start exploring.) We also wrote dozens of example extensions, illustrating how to use the APIs. Then we prototyped a new way to represent browser compatibility data as JSON, which enabled us to publish a single page showing the complete compat status of the APIs. In fact, this work helped inspire and form the basis of what became the browser compat data project (see above).",
-    "important": true,
-    "image": ["https://picsum.photos/seed/picsum/400/250", "https://picsum.photos/seed/picsum/400/250", "https://picsum.photos/seed/picsum/400/250", "https://picsum.photos/seed/picsum/400/250"],
-    "pinned": true,
-    "commented": false,
-    "osbbDtoOLD": null
   }
 ]
