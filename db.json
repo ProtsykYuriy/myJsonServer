@@ -88,35 +88,5 @@
     "pinned": true,
     "commented": false,
     "osbbDtoOLD": null
-  },
-  {
-    "osbbNewsId": 7,
-    "title": "The Front-end developer learning pathway",
-    "date": [
-      2020,
-      1,
-      15
-    ],
-    "article": "By 2019, the learning area was doing well, but we felt that something was still missing. There is a huge demand for training material on client-side JavaScript frameworks, and structured learning pathways. Serious students tend to learn with a goal in a mind such as becoming a front-end developer. Here’s what happened next: To figure out exactly what to cover, we did some research. This culminated in the publication of the Introduction to client-side frameworks and Understanding client-side web development tools modules, which have already been very well-received. We now provide introductory material on React, Ember, and Vue, with more framework documentation to come in the future. And in general, we provide beginners with an overview of available tools, how to apply them, and how they relate to what they already know. We organized the content we’ve published so far into the Front-end developer learning pathway — an opinionated pathway containing all the knowledge you’ll need to become a front-end web developer, along with time estimates, suggested order of learning, etc. Some folks have expressed concern over MDN’s framework-oriented content. MDN is supposed to be the neutral docs site, and focus purely on the standards! We understand this concern. And yet, the learning area has been created from a very pragmatic standpoint. Today’s web development jobs demand knowledge of frameworks and other modern tooling, and to pretend that these don’t exist would be bad for the resource (and its users). Instead, we aim to strike a balance, providing framework coverage as a neutral observer, offering opinions on when to use frameworks and when not to, and introducing them atop a solid grounding of standards and best practices. We show you how to use frameworks while adhering to essential best practices like accessibility.",
-    "important": true,
-    "image": ["https://picsum.photos/seed/picsum/400/250", "https://picsum.photos/seed/picsum/400/250"],
-    "pinned": true,
-    "commented": false,
-    "osbbDtoOLD": null
-  },
-  {
-    "osbbNewsId": 8,
-    "title": "Bringing interactive examples to reference pages",
-    "date": [
-      2020,
-      1,
-      15
-    ],
-    "article": "The 2016 MDN product strategy highlighted an opportunity to add interactive examples to our reference docs. From user feedback, we knew that users value easy availability of simple code examples to copy, paste, and experiment with. It is a feature of documentation resources they care deeply about, and we certainly weren’t going to disappoint. So between 2017 and 2019, a small team of writers and developers designed and refined editors for interactive examples. They wrote hundreds of examples for our JavaScript, CSS, and HTML reference pages, which you can now find at the top of most of the reference pages in those areas. See Bringing interactive examples to MDN for more details.",
-    "important": true,
-    "image": [],
-    "pinned": true,
-    "commented": false,
-    "osbbDtoOLD": null
   }
 ]
